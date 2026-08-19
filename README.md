@@ -56,8 +56,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=202401780-cmd&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=202401780-cmd&layout=compact&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=202401780-cmd&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=202401780-cmd&theme=nord_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=202401780-cmd&theme=nord_dark" width="32%" />
 </p>
 
 <hr>
