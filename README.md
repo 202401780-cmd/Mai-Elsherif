@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/Mai-Elsherif" alt="Hello Coders" width="60%"/> <br>
+<h1>Hi there, I'm Mai Elsherif 👋</h1>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Mai-Elsherif" alt="Workspace" width="40%"/><br> 
 
 <details>
