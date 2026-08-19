@@ -47,7 +47,21 @@
 
 <hr>
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/pengu.gif" width="120" />
+</p>
+
 <div align="center">
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai-Elsherif&theme=nord_dark" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mai-Elsherif&theme=nord_dark" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mai-Elsherif&theme=nord_dark" width="30%" />
+</p>
+
+<hr>
 
 ### ⚡ Developer Life Cycle
 
