@@ -13,7 +13,7 @@
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=202401780-cmd&style=flat-square&color=FF8C00&label=PROFILE+VIEWS)](https://github.com/202401780-cmd)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F202401780-cmd&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=202401780-cmd.202401780-cmd&left_color=555555&right_color=79C83D)
 
 </div>
 
