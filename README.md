@@ -47,10 +47,19 @@
 
 <hr>
 
+<!-- Penguin Section -->
 <p align="right">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/pengu.gif" width="120" />
 </p>
 
+- 💻 **I'm currently focused on:** Web Development & UI/UX Design
+- 🎓 **Studying:** CS & AI at Pharos University
+- 🚀 **Building:** Interactive web apps & frontend experiences
+- 💬 **Ask me about:** JavaScript, Python, C++, or Figma
+
+<br>
+
+<!-- Circles & Stats Section -->
 <div align="center">
 
 ### 📊 GitHub Stats
