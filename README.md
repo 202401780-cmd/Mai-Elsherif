@@ -12,7 +12,7 @@
 🎨 Crafting seamless user interfaces and clean developer experiences
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mai-Elsherif&style=flat-square&color=FF8C00&label=PROFILE+VIEWS)](https://github.com/Mai-Elsherif)
+[![Profile Views](https://komarev.com/ghpvc/?username=mai-elsherif&style=flat-square&color=FF8C00&label=PROFILE+VIEWS)](https://github.com/Mai-Elsherif)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMai-Elsherif&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)
 
 </div>
@@ -56,9 +56,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mai-Elsherif&theme=nord_dark" width="30%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mai-Elsherif&theme=nord_dark" width="30%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mai-Elsherif&theme=nord_dark" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mai-elsherif&show_icons=true&theme=nord&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-elsherif&layout=compact&theme=nord&hide_border=true" width="45%" />
 </p>
 
 <hr>
